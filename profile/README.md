@@ -1,6 +1,19 @@
-<p align="center"><a href="https://explorarc.com" target="_blank"><img src="https://explorarc.com/logo.png" width="30%"></a></p>
+<p><a href="https://explorarc.com" target="_blank"><img src="https://explorarc.com/logo.png" width="30%"></a></p>
 
-<h1 align="center">Explor-Arc</h1>
-<h2 align="center">Promoting Open source, to Create an Better Programming World💻</h2>
+# Explor-Arc
+## Promoting Great Resources, to make better Internet World💻
 
-Join us as a contributor and associate with us in our journey for making Open Source Contribution lit <span role="img" aria-label="fire emoji">🔥</span> and super powerful for the budding and already existing community.
+<br />
+
+Here you can find more things about our Organization
+- [Website](https://explorarc.com/)
+
+Our More Greate Resource:
+- [Science](https://science.explorarc.com/)
+- [Cosmos](https://cosmos.explorarc.com/)
+- [Engineering](https://engineering.explorarc.com/)
+- [Pattern](https://pattern.explorarc.com/)
+- [Sticitup](https://sticitup.explorarc.com/) - It's an small blogging site, which provides minimal amount of information
+
+To know our Projects:
+- [Projects](https://explorarc.com/projects)
